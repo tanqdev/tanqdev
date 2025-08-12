@@ -71,13 +71,13 @@ const tanqdev = {
 
 <div align="center">
   <a href="https://github.com/tanqdev/Shopping-List-Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanqdev&repo=project1&theme=tokyonight" alt="Featured Project 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanqdev&repo=Shopping-List-Project&theme=tokyonight" alt="Featured Project 1" />
   </a>
   <a href="https://github.com/tanqdev/PureEcho">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanqdev&repo=project2&theme=tokyonight" alt="Featured Project 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanqdev&repo=PureEcho&theme=tokyonight" alt="Featured Project 2" />
   </a>
   <a href="https://github.com/tanqdev/Flixx-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanqdev&repo=project2&theme=tokyonight" alt="Featured Project 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanqdev&repo=Flixx-app&theme=tokyonight" alt="Featured Project 3" />
   </a>
 </div>
 
@@ -85,10 +85,9 @@ const tanqdev = {
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanqdev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tanqdev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishq-srivastava-9341a5328/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanishqsd24@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tanqdev)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/764725490036113418)
 
 </div>
 
