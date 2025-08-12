@@ -34,13 +34,6 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=tanqdev&show_icons=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="TanqDev's GitHub Stats" />
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanqdev&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="TanqDev's Most Used Languages" />
 </div>
-<div align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com/?user=tanqdev&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=ffffff)](https://git.io/streak-stats">
-    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanqdev&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=ffffff)](https://git.io/streak-stats" />
-  </a>
-</div>
-
-
 
 ## 📈 Contribution Graph
 
@@ -97,12 +90,6 @@ const tanqdev = {
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
-## 🎵 Spotify Playing
-
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Now Playing" />
 </div>
 
 ## 📊 Profile Views Counter
