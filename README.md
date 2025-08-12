@@ -36,7 +36,7 @@
 </div>
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=tanqdev&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=ffffff&format=png&cache_seconds=1" alt="TanqDev's GitHub Streak" />
+    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanqdev&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=ffffff)](https://git.io/streak-stats" />
   </a>
 </div>
 
