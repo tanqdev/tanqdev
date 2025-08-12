@@ -35,7 +35,7 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanqdev&layout=compact&hide_border=true&title_color=00D9FF&text_color=c9d1d9&bg_color=0d1117" alt="TanqDev's Most Used Languages" />
 </div>
 <div align="center">
-  <a href="https://git.io/streak-stats">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=tanqdev&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=ffffff)](https://git.io/streak-stats">
     <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanqdev&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=ffffff)](https://git.io/streak-stats" />
   </a>
 </div>
