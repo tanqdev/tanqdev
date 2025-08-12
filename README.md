@@ -8,7 +8,7 @@
 
 ## 💻 My Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,rust,solidity,python,cairo,cpp,react,nodejs,nextjs,astro,tailwind,figma,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp" />
 </p>
 
 ### 👀 Profile Views
