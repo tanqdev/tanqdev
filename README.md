@@ -1,10 +1,10 @@
 # Hi there 👋, I'm Tanishq Srivastava
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TanishqSrivastava&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanqdev&show_icons=true&theme=tokyonight)
 
 ### 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanishqSrivastava&layout=compact&theme=tokyonight&hide=kotlin)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanqdev&layout=compact&theme=tokyonight&hide=kotlin)
 
 ## 💻 My Tech Stack
 <p align="left">
@@ -12,4 +12,4 @@
 </p>
 
 ### 👀 Profile Views
-![Profile views](https://komarev.com/ghpvc/?username=TanishqSrivastava&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=tanqdev&color=blue)
