@@ -28,30 +28,6 @@
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,go,rust,php,html,css" />
 </div>
 
-### Frontend Technologies
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,vue,angular,nextjs,nuxtjs,svelte,tailwindcss,bootstrap,sass" />
-</div>
-
-### Backend & Database
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,spring,mongodb,postgresql,mysql,redis,firebase" />
-</div>
-
-### Cloud & DevOps
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,nginx,git,github,gitlab" />
-</div>
-
-### Tools & IDEs
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,sublime,figma,postman,npm,yarn,webpack,vite" />
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -86,15 +62,6 @@ const tanqdev = {
     currentlyLearning: ["AI/ML", "Web3", "Microservices"],
     lookingForHelp: "Open source contributions",
     askMeAbout: ["Web Dev", "System Design", "Tech Trends"],
-    technologies: {
-        frontend: ["React", "Vue", "TypeScript", "Next.js"],
-        backend: ["Node.js", "Python", "Java", "Go"],
-        databases: ["MongoDB", "PostgreSQL", "Redis"],
-        cloud: ["AWS", "GCP", "Docker", "Kubernetes"],
-        tools: ["Git", "Jenkins", "Figma", "VS Code"]
-    },
-    architecture: ["Microservices", "Event-Driven", "Clean Architecture"],
-    currentChallenge: "Mastering system design patterns"
 };
 ```
 
@@ -103,10 +70,13 @@ const tanqdev = {
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/tanqdev/project1">
+  <a href="https://github.com/tanqdev/Shopping-List-Project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanqdev&repo=project1&theme=tokyonight" alt="Featured Project 1" />
   </a>
-  <a href="https://github.com/tanqdev/project2">
+  <a href="https://github.com/tanqdev/PureEcho">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanqdev&repo=project2&theme=tokyonight" alt="Featured Project 2" />
+  </a>
+  <a href="https://github.com/tanqdev/Flixx-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanqdev&repo=project2&theme=tokyonight" alt="Featured Project 2" />
   </a>
 </div>
@@ -117,24 +87,10 @@ const tanqdev = {
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanqdev)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tanqdev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://tanqdev.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@tanqdev.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanishqsd24@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tanqdev)
 
 </div>
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   12 hrs 15 mins  ████████████░░░░░░░░░░░░░   48.52% 
-TypeScript   6 hrs 30 mins   ██████░░░░░░░░░░░░░░░░░░░   25.76% 
-Python       3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   14.88% 
-CSS          1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   05.31% 
-JSON         45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.99% 
-Other        38 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   02.54%
-```
-<!--END_SECTION:waka-->
 
 ## 💡 Random Dev Quote
 
