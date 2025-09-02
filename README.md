@@ -68,7 +68,7 @@ const tanqdev = {
   <a href="https://github.com/tanqdev/Shopping-List-Project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanqdev&repo=Shopping-List-Project&theme=tokyonight" alt="Featured Project 1" />
   </a>
-  <a href="https://github.com/tanqdev/PureEcho">
+  <a href=https://github.com/tanqdev/CalTrack-Calories-tracking-app->
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanqdev&repo=PureEcho&theme=tokyonight" alt="Featured Project 2" />
   </a>
   <a href="https://github.com/tanqdev/Flixx-app">
