@@ -25,7 +25,7 @@
 
 ### Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css,react,nodejs,bootstrap,tailwind,vite,postman" />
 </div>
 
 ## 📊 GitHub Statistics
