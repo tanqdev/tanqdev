@@ -74,7 +74,7 @@ const tanishq = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanqdev&show_icons=true&count_private=true&hide_border=true&theme=default" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanqdev&show_icons=true&count_private=true&hide_border=true&theme=dark" />
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanqdev&layout=compact&hide_border=true&theme=default" />
 
 </div>
