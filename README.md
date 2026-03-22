@@ -62,9 +62,9 @@ const tanishq = {
 
 <div align="center">
 
-[![ReactJobs App](https://github-readme-stats.vercel.app/api/pin/?username=tanqdev&repo=ReactJobs-App&theme=default&hide_border=true)](https://github.com/tanqdev/ReactJobs-App)
-[![CalTrack](https://github-readme-stats.vercel.app/api/pin/?username=tanqdev&repo=CalTrack-Calories-tracking-app-&theme=default&hide_border=true)](https://github.com/tanqdev/CalTrack-Calories-tracking-app-)
-[![Flixx App](https://github-readme-stats.vercel.app/api/pin/?username=tanqdev&repo=Flixx-app&theme=default&hide_border=true)](https://github.com/tanqdev/Flixx-app)
+[![ReactJobs App](https://github-readme-stats.vercel.app/api/pin/?username=tanqdev&repo=ReactJobs-App&theme=dark&hide_border=true)](https://github.com/tanqdev/ReactJobs-App)
+[![CalTrack](https://github-readme-stats.vercel.app/api/pin/?username=tanqdev&repo=CalTrack-Calories-tracking-app-&theme=dark&hide_border=true)](https://github.com/tanqdev/CalTrack-Calories-tracking-app-)
+[![Flixx App](https://github-readme-stats.vercel.app/api/pin/?username=tanqdev&repo=Flixx-app&theme=dark&hide_border=true)](https://github.com/tanqdev/Flixx-app)
 
 </div>
 
@@ -75,13 +75,13 @@ const tanishq = {
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanqdev&show_icons=true&count_private=true&hide_border=true&theme=dark" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanqdev&layout=compact&hide_border=true&theme=default" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanqdev&layout=compact&hide_border=true&theme=dark" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanqdev&bg_color=ffffff&color=374151&line=374151&point=111827&area=true&hide_border=true" width="97%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanqdev&bg_color=000000&color=374151&line=374151&point=111827&area=true&hide_border=true" width="97%" />
 
 </div>
 
