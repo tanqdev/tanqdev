@@ -103,32 +103,27 @@ const tanishq = {
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanqdev&theme=github_dark">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanqdevi&theme=github" alt="Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanqdev&theme=github_dark">
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanqdev&theme=github" alt="Top Languages" />
+  </picture>
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanqdev&show_icons=true&count_private=true&hide_border=true&theme=radical" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanqdev&layout=compact&hide_border=true&theme=radical" />
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanqdev&theme=github_dark">
+    <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanqdev&theme=github" alt="Profile Details" />
+  </picture>
+</p>
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanqdev&theme=radical&hide_border=true" width="97%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanqdev&theme=radical&hide_border=true&area=true" width="97%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=tanqdev&theme=radical&no-frame=true&row=1&column=6&margin-w=8" width="97%" />
-
-</div>
+<hr />
 
 ---
 
