@@ -99,7 +99,7 @@ const tanishq = {
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanqdev&theme=github_dark">
-    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanqdev&theme=github" alt="Profile Details" />
+    <img width="68%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanqdev&theme=github" alt="Profile Details" />
   </picture>
 </p>
 
