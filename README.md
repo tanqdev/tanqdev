@@ -83,43 +83,23 @@ const tanishq = {
 
 ---
 
-## Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/tanqdev/RootCause.ai">
-  <img src="https://github.com/tanqdev/RootCause.ai/blob/main/preview.png?raw=true" width="31%" alt="RootCause.ai">
-</a>
-&nbsp;
-<a href="https://github.com/tanqdev/Codium">
-  <img src="https://github.com/tanqdev/Codium/blob/main/preview.png?raw=true" width="31%" alt="Codium">
-</a>
-&nbsp;
-<a href="https://github.com/tanqdev/Weatherly">
-  <img src="https://github.com/tanqdev/Weatherly/blob/main/preview.png?raw=true" width="31%" alt="Weatherly">
-</a>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanqdev&theme=github_dark">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanqdevi&theme=github" alt="Stats" />
+    <img width="29%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tanqdevi&theme=github" alt="Stats" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanqdev&theme=github_dark">
-    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanqdev&theme=github" alt="Top Languages" />
+    <img width="29%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanqdev&theme=github" alt="Top Languages" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanqdev&theme=github_dark">
-    <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanqdev&theme=github" alt="Profile Details" />
+    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanqdev&theme=github" alt="Profile Details" />
   </picture>
 </p>
 
