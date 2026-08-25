@@ -1,13 +1,15 @@
 <div align="center">
 
-# Tanishq Srivastava
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:339933&height=200&section=header&text=Tanishq%20Srivastava&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%C2%B7%20Computer%20Science%20Student&descAlignY=55&descSize=18" width="100%"/>
 
-**Backend Developer · Computer Science Student**
+<a href="https://www.linkedin.com/in/tanishq-srivastava-9341a5328/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:tanishqsd24@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://discordapp.com/users/764725490036113418"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=tanqdev&style=flat-square&color=blueviolet"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishq-srivastava-9341a5328/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tanishqsd24@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/764725490036113418)
-![Profile Views](https://komarev.com/ghpvc/?username=tanqdev&style=flat-square&color=grey)
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=339933&center=true&vCenter=true&width=600&lines=Building+full-stack+products%2C+end+to+end;React+%2B+Node+%2C+PostgreSQL+%2C+Redis;Solving+DSA+daily+%E2%80%94+Striver's+A2Z+sheet;Currently%3A+3+active+hackathon-grade+builds" alt="Typing SVG" />
 
 </div>
 
@@ -15,17 +17,19 @@
 
 ## About
 
-Third-year Computer Science student (B.Tech) focused on backend engineering, distributed systems, and competitive programming — building toward FAANG-tier internship and full-time roles.
+Third-year Computer Science student (B.Tech) building full-stack products end to end — from React interfaces down through API design, database modeling, and the distributed-systems plumbing that makes backends actually hold up under load. Working toward FAANG-tier internship and full-time roles.
 
-I'm currently deep in system design fundamentals: concurrency control, async job processing, and real-time infrastructure, alongside consistent C++ DSA practice. I'm also active on the hackathon circuit, building multi-agent AI systems under time pressure.
+Currently deep in system design fundamentals — concurrency control, async job processing, real-time infrastructure — alongside consistent C++ DSA practice. Also active on the hackathon circuit, building multi-agent AI systems under time pressure.
 
 ```javascript
 const tanishq = {
-  status:    "3rd-year CS Student · Open to internships",
-  building:  ["Collaborative Code Editor", "Ecommerce Backend", "Codium"],
-  practicing:"C++ DSA (Striver's A2Z sheet)",
-  hackathons:["SIH 2026 — IP-SAKTI Sahayak", "HACKSYNERGY 2026 — RootCause.ai"],
-  contact:   "tanishqsd24@gmail.com"
+  role:       "Full Stack Developer (Student)",
+  status:     "3rd-year CS Student · Open to internships",
+  stack:      { frontend: "React / Next.js", backend: "Node / Express / FastAPI", data: "PostgreSQL / Redis" },
+  building:   ["Collaborative Code Editor", "Ecommerce Backend", "Codium"],
+  practicing: "C++ DSA (Striver's A2Z sheet)",
+  hackathons: ["SIH 2026 — IP-SAKTI Sahayak", "HACKSYNERGY 2026 — RootCause.ai"],
+  contact:    "tanishqsd24@gmail.com"
 };
 ```
 
@@ -94,22 +98,56 @@ const tanishq = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanqdev&show_icons=true&count_private=true&hide_border=true&theme=transparent" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanqdev&layout=compact&hide_border=true&theme=transparent" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanqdev&show_icons=true&count_private=true&hide_border=true&theme=radical" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanqdev&layout=compact&hide_border=true&theme=radical" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanqdev&theme=github-compact&hide_border=true&area=true" width="97%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=tanqdev&theme=radical&hide_border=true" width="97%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanqdev&theme=radical&hide_border=true&area=true" width="97%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=tanqdev&theme=radical&no-frame=true&row=1&column=6&margin-w=8" width="97%" />
 
 </div>
 
 ---
 
+## Contribution Snake
+
 <div align="center">
 
-*Open to backend/full-stack internships and collaboration.*
+<img src="https://raw.githubusercontent.com/tanqdev/tanqdev/output/github-contribution-grid-snake.svg" width="97%" />
+
+<sub>Generated by <a href="https://github.com/Platane/snk">Platane/snk</a> — needs a one-time GitHub Action set up on the profile repo to render (see note below).</sub>
+
+</div>
+
+---
+
+## Fun Facts
+
+- Runs every project through a self-imposed "would this survive a system design interview?" filter before calling it done
+- Currently juggling 3 hackathon-grade builds and a DSA sheet in parallel — coordinator agent energy, but for real life
+- Believes the hardest part of any full-stack app is never the frontend
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:339933,100:0A66C2&height=120&section=footer" width="100%"/>
+
+*Open to full-stack internships and collaboration.*
 **Let's build something together — reach out anytime.**
 
 </div>
