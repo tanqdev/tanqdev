@@ -21,6 +21,8 @@ Third-year Computer Science student (B.Tech) building full-stack products end to
 
 Currently deep in system design fundamentals — concurrency control, async job processing, real-time infrastructure — alongside consistent C++ DSA practice. Also active on the hackathon circuit, building multi-agent AI systems under time pressure.
 
+## [![FLISK HALL OF FAME @tanqdev • 1 merged PR](https://img.shields.io/badge/FLISK%20HALL%20OF%20FAME-%40tanqdev%20%E2%80%A2%201%20merged%20PR-06b6d4?style=for-the-badge&labelColor=07080f)](https://github.com/flisk-sh/flisk/issues?q=is%3Aissue+is%3Aopen+label%3Acommunity)
+
 ```javascript
 const tanishq = {
   role:       "Full Stack Developer (Student)",
